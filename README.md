@@ -1,6 +1,3 @@
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-
 # 1차 실습 프로젝트
 Spring boot 와 Java를 활용하여 Account(계좌 관리) 시스템을 만드는 프로젝트 과제
 
@@ -60,3 +57,14 @@ Spring boot 와 Java를 활용하여 Account(계좌 관리) 시스템을 만드�
     - 실패 : 해당 transaction_id 없는 경우
     - 성공 : 계좌번호, 거래종류(잔액 사용, 잔액 사용 취소), transaction_result, transaction_id, 거래금액, 거래일시
       - 성공 거래 뿐 아니라 실패한 거래도 거래 확인 할 수 있어야 한다.
+
+     
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+
+
+## JAVA version
+17
+
+## Spring version
+3.2.5
