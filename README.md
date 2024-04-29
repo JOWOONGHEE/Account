@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
 Account
 Spring boot 와 Java를 활용하여 Account(계좌 관리) 시스템을 만드는 프로젝트 과제
 
