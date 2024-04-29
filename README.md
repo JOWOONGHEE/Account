@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIWOONGHEE)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOWOONGHEE)](https://github.com/anuraghazra/github-readme-stats)
 
 Account
 Spring boot 와 Java를 활용하여 Account(계좌 관리) 시스템을 만드는 프로젝트 과제
