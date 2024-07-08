@@ -11,7 +11,8 @@ import com.example.account.type.AccountStatus;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
-import javax.transaction.Transactional;
+// import javax.transaction.Transactional; // 기존 코드
+import org.springframework.transaction.annotation.Transactional; // 수정된 코드
 import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Objects;
